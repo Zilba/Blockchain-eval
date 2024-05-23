@@ -22,6 +22,3 @@ Voici l'énoncé :
 
 ![Coverage](img/coverage.png)
 
-## Auteur
-
-Alex DURAND (me)
